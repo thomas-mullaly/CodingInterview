@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingInterview", "CodingInterview.csproj", "{A27797C9-086D-4789-BDA6-016D18FD7BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{1DA3D6FC-4DFE-4A47-82B7-D43C503E39A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DA3D6FC-4DFE-4A47-82B7-D43C503E39A3}.Debug|x86.ActiveCfg = Debug|x86
+		{1DA3D6FC-4DFE-4A47-82B7-D43C503E39A3}.Debug|x86.Build.0 = Debug|x86
+		{1DA3D6FC-4DFE-4A47-82B7-D43C503E39A3}.Release|x86.ActiveCfg = Release|x86
+		{1DA3D6FC-4DFE-4A47-82B7-D43C503E39A3}.Release|x86.Build.0 = Release|x86
+		{A27797C9-086D-4789-BDA6-016D18FD7BF9}.Debug|x86.ActiveCfg = Debug|x86
+		{A27797C9-086D-4789-BDA6-016D18FD7BF9}.Debug|x86.Build.0 = Debug|x86
+		{A27797C9-086D-4789-BDA6-016D18FD7BF9}.Release|x86.ActiveCfg = Release|x86
+		{A27797C9-086D-4789-BDA6-016D18FD7BF9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
